@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+.links{
+    background-color:pink ;
+    width: 100%;
+    padding: 10px;
+    font-size: xx-large;
+    padding:solid ; border-style: solid;
+}
